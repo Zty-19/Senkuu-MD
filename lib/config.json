@@ -1,17 +1,17 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
   "namebot": "Senkuu",
-  "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
+  "botNumber": "6285807264974@s.whatsapp.net",
+  "owner": ["6285807264974@s.whatsapp.net"],
   "instagram": "https://instagram.com/repannthisori021_",
-  "author": "Yntkts",
-  "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "author": "F A R U Q O F C",
+  "session": "session",
+  "email": "faruq51@gmail.com",
   "self": false,
   "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
     "packname": "Senkuu",
-    "author": "Beta ✓"
+    "author": "F A R U Q O F C"
   },
   "ignore": {
 		"directory": ["umum"]
